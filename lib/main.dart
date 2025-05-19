@@ -21,12 +21,12 @@ class MyApp extends StatelessWidget {
             runSpacing: 10.0, // Вертикальный отступ между строками
             children: [
               // Добавление 6 контейнеров с картинками
-              ImageContainer(url: 'https://steamuserimages-a.akamaihd.net/ugc/2267061416746036822/4B4E1BD53415BC3BA1C3E1095D730054B4FB824B/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true'),
-              ImageContainer(url: 'https://avatars.mds.yandex.net/i?id=9d92de87b0a5256e5b645d30afdbc6e177b159d5-3712383-images-thumbs&n=13'),
-              ImageContainer(url: 'https://avatars.mds.yandex.net/i?id=7439c0ce708529b2dc63cf21cde3bb623484b26a-5099371-images-thumbs&n=13'),
-              ImageContainer(url: 'https://avatars.mds.yandex.net/i?id=c5472a2951cc6d0683cf073c5c6b6992b8626da5-13312075-images-thumbs&n=13'),
-              ImageContainer(url: 'https://avatars.mds.yandex.net/i?id=55c525ef069649f9830702fbcc8dda2aa3faa636-4545333-images-thumbs&n=13'),
-              ImageContainer(url: 'https://steamuserimages-a.akamaihd.net/ugc/1700659825268174889/F2F16F3F7CF78BBFDC65FC6B50841FEB1F28DAA7/?imw=512&amp;imh=267&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true'),
+              ImageContainer(url: 'assets/images/image1.jpg'),
+              ImageContainer(url: 'assets/images/image2.jpg'),
+              ImageContainer(url: 'assets/images/image3.jpg'),
+              ImageContainer(url: 'assets/images/image4.jpg'),
+              ImageContainer(url: 'assets/images/image5.jpg'),
+              ImageContainer(url: 'assets/images/image6.jpg'),
             ],
           ),
         ),
